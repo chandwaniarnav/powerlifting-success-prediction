@@ -5,7 +5,7 @@ This project analyzes real-world powerlifting data from OpenPowerlifting to pred
 
 ## Dataset
 
-- **Data Source:** OpenPowerlifting
+- **Data Source:** [openpowerlifting-2024-01-06-4c732975.csv on Kaggle](https://www.kaggle.com/datasets/open-powerlifting/powerlifting-database/data?select=openpowerlifting-2024-01-06-4c732975.csv)
 - Includes lifter details (weight class, sex, equipment type), lift type (squat, bench press, deadlift), and attempt outcomes.
 - Preprocessing includes handling missing values, encoding categorical variables, and normalizing numerical features.
 
